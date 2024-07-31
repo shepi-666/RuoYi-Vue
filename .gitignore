@@ -20,6 +20,7 @@ target/
 .springBeans
 
 ### IntelliJ IDEA ###
+resources
 .idea
 *.iws
 *.iml
